@@ -24,6 +24,6 @@ This repository contains a curated collection of fundamental algorithm implement
 - **Fibonacci Generator**:
   - Matrix exponentiation approach for efficient \( O(log n) \) computation
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Language**: C++
 - **Libraries**: STL (`vector`, `map`, `set`, etc.)
