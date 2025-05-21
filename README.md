@@ -22,7 +22,7 @@ This repository contains a curated collection of fundamental algorithm implement
   - Computes smallest prime factor (SPF) for each number up to `n`
   - Enables fast prime factorization
 - **Fibonacci Generator**:
-  - Matrix exponentiation approach for efficient \( O(\log n) \) computation
+  - Matrix exponentiation approach for efficient \( O(log n) \) computation
 
 ## 🛠️ Technologies Used
 - **Language**: C++
