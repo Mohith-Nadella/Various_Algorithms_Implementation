@@ -27,3 +27,4 @@ This repository contains a curated collection of fundamental algorithm implement
 ##  Technologies Used
 - **Language**: C++
 - **Libraries**: STL (`vector`, `map`, `set`, etc.)
+- Object-Oriented Pragramming
