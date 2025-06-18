@@ -1,7 +1,15 @@
 # Various Algorithm Implementations
 
 This repository contains a curated collection of fundamental algorithm implementations in C++, built with a focus on object-oriented design, modularity, and code clarity. These implementations are useful for academic learning, interview preparation, and competitive programming practice.
+## Avengers Battle Simulation
 
+A dynamic C++ simulation of battles between Avengers and villains with customizable suits and attributes like power, durability, heat and energy. Demonstrates use of polymorphism and STL containers.
+
+### Features
+- Customizable character attributes
+- Actions: attack, repair, upgrade, boost
+- Battle status tracking
+- Event logging
 ##  Algorithms Covered
 
 ###  Divide and Conquer
